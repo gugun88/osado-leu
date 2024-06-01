@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "aaron-bond.better-comments",
+        "bradlc.vscode-tailwindcss",
+        "stivo.tailwind-fold",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "actboy168.tasks"
+    ]
+}

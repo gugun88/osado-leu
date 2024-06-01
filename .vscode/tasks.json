@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "dev",
+            "label": "client",
+            "options": {
+                "statusbar": {
+                    "color": "#bbd622",
+                }
+            },
+            "icon": {
+                "color": "terminal.ansiYellow",
+                "id": "person"
+            }
+        }
+    ]
+}
